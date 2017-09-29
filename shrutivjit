@@ -1,0 +1,6 @@
+I have made use of NETBEANS IDE 8.2 for this assignment.
+The design and working is such that, initially a table num has to be entered which in turn gives us a message if the table is available or not.
+The next button takes us to the menu where we have a variety of options to choose from.Also the bill is immediately displayed for each item.
+After the calculation of food items tax is calculated and total is dispalyed.
+A database has been created in java to store the feedback given by the cusomer.
+Except for the feedback form, all are developed using maven.
